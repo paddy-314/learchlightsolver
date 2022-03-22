@@ -37,9 +37,9 @@ Es gibt lösbare Aufgaben und nicht lösbare Aufgaben. Sollte eine Aufgabe nicht
 #### 8. Schritt: Wenn alles geklappt hat, sollten nun 100% angezeigt werden :smile:
 
 ## Bekannte Fehler
-- [ ] https://github.com/0x108/Studi/issues/3
-- [ ] https://github.com/0x108/Studi/issues/5
-- [ ] https://github.com/0x108/Studi/issues/6
+- [ ] #2
+- [ ] #3
+- [ ] #4
 
 ## Hat Dir das Skript geholfen? 
-Wenn Dir das Skript gefällt, Du Kritik loswerden willst oder Verbesserungsvorschläge hast, dann schreib gerne [hier rein](https://github.com/0x108/Studi/issues/7). Oftmals reicht ein einfaches "Danke", um jemanden den Tag zu versüßen.
+Wenn Dir das Skript gefällt, Du Kritik loswerden willst oder Verbesserungsvorschläge hast, dann schreib gerne [hier rein](https://github.com/paddy-314/learnlightsolver/issues/1). Oftmals reicht ein einfaches "Danke", um jemanden den Tag zu versüßen.
