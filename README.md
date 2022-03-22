@@ -42,4 +42,4 @@ Es gibt lösbare Aufgaben und nicht lösbare Aufgaben. Sollte eine Aufgabe nicht
 - [ ] #4
 
 ## Hat Dir das Skript geholfen? 
-Wenn Dir das Skript gefällt, Du Kritik loswerden willst oder Verbesserungsvorschläge hast, dann schreib gerne [hier rein](https://github.com/paddy-314/learnlightsolver/issues/1). Oftmals reicht ein einfaches "Danke", um jemanden den Tag zu versüßen.
+Wenn Dir das Skript gefällt, Du Kritik loswerden willst oder Verbesserungsvorschläge hast, dann schreib gerne [hier rein](https://github.com/paddy-314/learnlightsolver/issues/1). Auch ein einfaches "Danke" ist gerne gesehen.  :relaxed:
