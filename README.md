@@ -2,7 +2,7 @@
 Ich fühle mich persönlich von den Learnlight Aufgaben unterfordert und empfinde die Aufgaben als Zeitverschwendung. Was macht ein Programmierer, wenn er einen überflüssigen Task sieht, der normalerweise ein paar Minuten braucht?
 **Genau:** man nimmt unzählige Stunden Zeit, genau das zu automatisieren. Und hier darf ich nach echt vielen Arbeitsstunden mein Ergebnis präsentieren.
 
-> **Achtung**: Sollte der Code bei einer Aufgabe nicht funktionieren, dann bitte als [Issue](https://github.com/paddy-314/learnlightsolver/issues) am besten mit Bilden eintragen.
+> **Achtung**: Sollte der Code bei einer Aufgabe nicht funktionieren, dann bitte als [Issue](https://github.com/paddy-314/learnlightsolver/issues) am besten mit Bildern eintragen.
 
 ## just a heads-up
 Die vorkommenden Wörter und Themen werden normalerweise auch in der Folgestunde behandelt. Deshalb ist es immer sinnvoll, die Aufgaben und deren Vokabeln zumindest einmal kurz anzuschauen.
