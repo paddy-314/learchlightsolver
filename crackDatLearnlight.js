@@ -8,7 +8,7 @@
 
 /*-------------------------------*/
 
-var timeout = 300 //reduce to increase speed, too low values can cause the browser to crash
+var timeout = 100 //reduce to increase speed, too low values can cause the browser to crash
 
 var amountOfCards = parseInt(
   Array.from(
