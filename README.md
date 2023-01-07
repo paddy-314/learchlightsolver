@@ -19,7 +19,7 @@ Das Skript ist in Javascript geschrieben und in 2 Teile geteilt:
 
 ## Wie führe ich das Skript aus?
 Ganz wichtig ist es dabei, dass immer ***alle Karten wiederholt*** werden müssen. Nur dann kann das Skript die richtigen Karten mit den Lösungen wieder finden.
-Es gibt lösbare Aufgaben und nicht lösbare Aufgaben. Sollte eine Aufgabe nicht lösbar sein, wird eine Notifcation wiedergeben. Diese Aufgabe muss dann selbstständig gelöst werden.
+Es gibt lösbare Aufgaben und nicht lösbare Aufgaben. Sollte eine Aufgabe nicht lösbar sein, wird eine Notifcation wiedergegeben. Diese Aufgabe muss dann selbstständig gelöst werden.
 
 #### 1. Schritt: Eine beliebige Kartenserie heraussuchen und bis auf die erste Karte navigieren.
 ![first step](./images/firstCard.png)
